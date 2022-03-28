@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ready Player Me Harry Potter
+* source:	https://sketchfab.com/3d-models/ready-player-me-harry-potter-04818b45a02c4420ac5c178e4bc0f298
+* author:	Ready Player Me (https://sketchfab.com/readyplayerme)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ready Player Me Harry Potter" (https://sketchfab.com/3d-models/ready-player-me-harry-potter-04818b45a02c4420ac5c178e4bc0f298) by Ready Player Me (https://sketchfab.com/readyplayerme) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

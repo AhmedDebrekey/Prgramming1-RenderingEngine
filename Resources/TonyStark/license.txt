@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tony Stark | Full Body Avatar |
+* source:	https://sketchfab.com/3d-models/tony-stark-full-body-avatar-12259bd6c5e148cfa1cd6fcce1d2df9f
+* author:	BEAGAMER (https://sketchfab.com/BEAGAMER)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tony Stark | Full Body Avatar |" (https://sketchfab.com/3d-models/tony-stark-full-body-avatar-12259bd6c5e148cfa1cd6fcce1d2df9f) by BEAGAMER (https://sketchfab.com/BEAGAMER) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
